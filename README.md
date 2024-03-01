@@ -1,16 +1,35 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**rfilippod/rfilippod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou [Seu Nome], um entusiasta da tecnologia apaixonado por programação e aprendizado contínuo.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Desenvolvedor de software
+- 🎓 Estudante de [Curso/Área de Estudo]
+- 🌱 Atualmente aprendendo [Tecnologia ou Tópico Interessante]
+- 💼 Trabalhando como [Seu Cargo ou Ocupação]
+- 😄 Pronomes: [Seus Pronomes]
+
+## Tecnologias Favoritas
+
+- Linguagens de Programação: [Liste as Linguagens]
+- Frameworks: [Liste os Frameworks]
+- Ferramentas: [Liste as Ferramentas]
+
+## Projetos Destacados
+
+- [Nome do Projeto 1](Link)
+- [Nome do Projeto 2](Link)
+- [Nome do Projeto 3](Link)
+
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)](https://github.com/seu-usuario)
+
+## Contato
+
+- 📧 Email: [seu-email@example.com]
+- 💼 LinkedIn: [Seu Perfil no LinkedIn]
+- 🐦 Twitter: [Seu Perfil no Twitter]
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo se tiver alguma pergunta ou sugestão!
