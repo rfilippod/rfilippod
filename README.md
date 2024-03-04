@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Rodrigo Filippo Dias, um entusiasta da te
 
 - (GA) Algorítmo Genético para o Problema de Agendamento Escolar
 - (BRKGA) Algorítmo Genético com Chaves Aleatórias Viciadas Problema de Agendamento Escolar
-- [Nome do Projeto 3](Link)
+- Simulated Annealing
 
 ## Contato
 
